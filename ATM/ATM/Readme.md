@@ -1,0 +1,2 @@
+﻿With my ATM application the functionality is to be allow customers to check their balance, withdraw funds, and deposit funds.
+I'm still working out the bugs to have it running at optimal efficiency. Upon handling the bugs I'll be sure to update this area with the progress.
